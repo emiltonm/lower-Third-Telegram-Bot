@@ -1,0 +1,14 @@
+{
+    "configuracion":{
+        "apiKey":"YOUR TOKEN BOT TELEGRAM",
+        "rutaAbsoluta":"A:/DESARROLLO/lowerTelegram",
+        "rutaSalida":"M:/Mi unidad/creditos-programa",
+        "rutaAfterEffects":"C:/Program Files/Adobe/Adobe After Effects 2021/Support Files/AfterFX.exe",
+        "nameProject":"lower2022.aep",
+        "nameDatabase":"databot.txt",
+        "nameScript":"TelegramBotLower.jsx",
+        "separacion":","
+    }
+}
+
+
